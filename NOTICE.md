@@ -29,7 +29,6 @@ This skin contains copyrighted software under MIT, OFL and some other Licenses.
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
-
 # Dokdo
 - Copyright (c) FONTRIX (https://www.fontrix.co.kr),
 - Licensed under SIL OPEN FONT LICENSE
@@ -121,7 +120,6 @@ This skin contains copyrighted software under MIT, OFL and some other Licenses.
 > DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 > FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 > OTHER DEALINGS IN THE FONT SOFTWARE.
-
 # Gaegu
 - Copyright (c) JIKJI SOFT (http://jikjisoft.com/),
 - Licensed under SIL OPEN FONT LICENSE
@@ -213,7 +211,6 @@ This skin contains copyrighted software under MIT, OFL and some other Licenses.
 > DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 > FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 > OTHER DEALINGS IN THE FONT SOFTWARE.
-
 # Nanum Gothic, Nanum Gothic Coding, Nanum Myeongjo
 
 - Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/),
@@ -306,7 +303,6 @@ This skin contains copyrighted software under MIT, OFL and some other Licenses.
 > DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 > FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 > OTHER DEALINGS IN THE FONT SOFTWARE.
-
 # Noto Sans KR, Noto Serif KR
 
 - Copyright (c) Google (https://www.google.com/),
@@ -412,10 +408,11 @@ This skin contains copyrighted software under MIT, OFL and some other Licenses.
 >3. 한겨레결체는 어떠한 이유로도 저작권자 이외의 사용자가 수정, 판매할 수 없으며, 배포되는 형태 그대로 사용해야 합니다.
 >
 >4. 한겨레결체를 사용해 출판물을 낼 경우 글꼴 출처를 표시해야 합니다.
-
+한겨레결체 폰트
 # 청소년체
 - Copyright (c) 여성가족부, 한국청소년활동진흥원
 
 >※ 청소년체는 누구나 무료로 다운로드 받아 자유롭게 사용할 수 있습니다.
 >영상매체, 인쇄매체, 웹, 모바일 등 다양한 매체에 자유롭게 사용이 가능하며, 특별한 허가 절차 없이 사용할 수 있습니다.
 >다만, 청소년체를 유료로 양도하거나 판매하는 등 상업적 행위는 금지하며 소스코드 수정 등 일부 혹은 전부를 임의로 변형할 수 없습니다.
+청소년체 폰트
