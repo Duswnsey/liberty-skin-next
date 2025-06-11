@@ -1,17 +1,16 @@
-# Liberty Web_wiki Skin
+Next를 쓸 필요 없다 생각, React는 최적화에 손이 많이감, JSX　지원 스킨이 존제하지 않음 => 포팅 귀찮. 나머지 스킨을 포팅하느리 차다리 내가 스킨에 맞추는 것이 맞다고 판단. VUE는 USEMEMO　안써도 됨.
 
-[English](.github/README.en.md)
+SEVELT 또는 VUE로 바꿀 고민 => VUE 쓰기로 결정
 
-[리브레 위키](https://librewiki.net)의 기본 스킨입니다.
+레포 페기 예정
 
-## 개발
+프론트 포팅 예정
 
-원본 소스는 [GitHub.com](https://github.com/librewiki/liberty-skin)에 존재하며, 버그 리포팅은 (hazer24879@gmail.com)에서, 패치는 되도록 이메일 에서만 받고 있습니다. 여기에 있는 코드는 모두 포팅되었으며, 코드의 최신성을 보증하지 않습니다.
+WIKLIM 포팅 예정
 
-보안 취약점은 이메일 (dev@librewiki.net) 로 보고해 주세요.
+벡엔드 러스트 이주 예정
 
-원본 리버티스킨에서 찾을 수 없는 취약점이라면, [저](hazer24879@gmail.com)에게 연락주세요😭
-## 설치
+파서 정규식 파서 폐기 후 새로 만드는중
 
- public/Skins 폴더에 압축을 풀거나 git clone을 수행하세요. 압축해제된 폴더의 이름은 `liberty-skin-next` 이어야 합니다.
-* .env 파일의 DEFAULT_SKIN을 liberty-skin-next으로 설정해 주세요.
+싹다 갈아 엎는중
+
